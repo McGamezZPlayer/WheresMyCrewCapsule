@@ -880,7 +880,8 @@
     DescriptionLocKey: "WMCC/TechNodes/Descriptions/wmcc_enhanced_disassembly";
     RequiredSciencePoints: 300;
     UnlockedPartsIDs: [
-        "separator_1v_inline\ndecoupler_1v_aerodynamic",
+        separator_1v_inline,
+        decoupler_1v_aerodynamic,
         decoupler_2v_aerodynamic,
         separator_2v_inline
     ];
